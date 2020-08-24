@@ -1,16 +1,26 @@
+
 ### Hi there 👋
 
-<!--
-**gwenf/gwenf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Gwendolyn Faraday
 
-Here are some ideas to get you started:
+###### ***Software Consultant*** | ***Content Creator***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **YouTube:** [Faraday Academy](https://youtube.com/c/FaradayAcademy)
+* **Twitch:** [faradayacademy](https://twitch.tv/faradayacademy)
+* **Twitter:** [faradayacademy](https://twitter.com/faradayacademy)
+* **Instagram:** [gwen_faraday](https://www.instagram.com/gwen_faraday)
+
+### I am available to create videos, courses, or articles on the following topics:
+
+* Vue.js
+* JavaScript
+* Sass
+* Django
+* Python
+* Blockchain
+
+### My GitHub stats
+
+This doesn't take into account the work done in forks, organizations, or private repos.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=gwenf&show_icons=true)
