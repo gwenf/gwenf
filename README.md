@@ -25,4 +25,5 @@ This doesn't take into account the work done in forks, organizations, or private
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gwenf&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwenf)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwenf)](https://github.com/anuraghazra/github-readme-stats) -->
