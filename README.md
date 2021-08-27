@@ -12,12 +12,11 @@
 
 ### I am available to create videos, courses, or articles on the following topics:
 
+* Python
+* Django
 * Vue.js
 * JavaScript
 * Sass
-* Django
-* Python
-* Blockchain
 
 ### My GitHub stats
 
