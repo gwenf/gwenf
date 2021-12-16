@@ -3,7 +3,7 @@
 
 ## I'm Gwendolyn Faraday
 
-###### ***Software Consultant*** | ***Content Creator***
+###### ***Software Developer*** | ***Content Creator***
 
 * **YouTube:** [Faraday Academy](https://youtube.com/c/FaradayAcademy)
 * **Twitch:** [faradayacademy](https://twitch.tv/faradayacademy)
