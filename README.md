@@ -13,6 +13,7 @@
 ### I am available to create videos, courses, or articles on the following topics:
 
 * Python
+* Fast API
 * Django
 * Vue.js
 * JavaScript
