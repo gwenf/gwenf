@@ -10,7 +10,7 @@
 * **Twitter:** [faradayacademy](https://twitter.com/faradayacademy)
 * **Instagram:** [faradayacademy](https://www.instagram.com/faradayacademy/)
 
-### I am available to create videos, courses, or articles on the following topics:
+### I create videos, courses, or articles on the following topics:
 
 * Python
 * Fast API
