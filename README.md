@@ -15,9 +15,10 @@
 * Python
 * Fast API
 * Django
+* Golang
+* Postgres
 * Vue.js
 * JavaScript
-* Sass
 
 ### My GitHub stats
 
