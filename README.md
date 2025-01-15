@@ -9,7 +9,7 @@
 * **Twitch:** [faradayacademy](https://twitch.tv/faradayacademy)
 * **Instagram:** [faradayacademy](https://www.instagram.com/faradayacademy/)
 
-### I create videos, courses, or articles on the following topics:
+### I'm available for software consulting and to create videos, courses, or articles on the following topics:
 
 * AI Engineering: AI APIs, LLMs, RAG Systems, Agentic Workflows, Data Pipelines
 * Databases: Postgres, Vector, Elasticsearch, Mongo, Redis, Dynamo
