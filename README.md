@@ -12,13 +12,10 @@
 
 ### I create videos, courses, or articles on the following topics:
 
-* Python
-* Fast API
-* Django
-* Golang
-* Postgres
-* Vue.js
-* JavaScript
+* AI Engineering: AI APIs, LLMs, RAG Systems, Agentic Workflows, Data Pipelines
+* Databases: Postgres, Vector, Elasticsearch, Mongo, Redis, Dynamo
+* Languages: Python, Golang, JavaScript
+* Frameworks: Fast API, Django, Gin, Vue.js
 
 ### My GitHub stats
 
