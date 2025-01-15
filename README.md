@@ -7,7 +7,6 @@
 
 * **YouTube:** [Faraday Academy](https://youtube.com/c/FaradayAcademy)
 * **Twitch:** [faradayacademy](https://twitch.tv/faradayacademy)
-* **Twitter:** [faradayacademy](https://twitter.com/faradayacademy)
 * **Instagram:** [faradayacademy](https://www.instagram.com/faradayacademy/)
 
 ### I create videos, courses, or articles on the following topics:
