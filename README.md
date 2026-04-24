@@ -5,9 +5,9 @@
 
 ###### ***Staff Software Engineer*** | ***AI Engineer***
 
+* [**See what I'm working on**](https://linktr.ee/gwenfaraday)
 * **YouTube:** [Faraday Academy](https://youtube.com/c/FaradayAcademy)
-* **Twitch:** [faradayacademy](https://twitch.tv/faradayacademy)
-* **Instagram:** [faradayacademy](https://www.instagram.com/faradayacademy/)
+* **Instagram:** [faradayacademy](https://www.instagram.com/gwen_faraday/)
 
 ### I'm available for software consulting and to create videos, courses, or articles on the following topics:
 
